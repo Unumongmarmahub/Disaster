@@ -1,0 +1,86 @@
+
+body{
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+/* this is first part  */
+.image img{
+  width: 100%;
+  position: relative;
+  background-image: linear-gradient(rgb(43, 30, 30) rgb(16, 13, 13));
+}
+.heading-text {
+  position: absolute;
+  top: 43px;
+  left: 381px;
+  color: white;
+  font-size: 45px;
+  width: 576px;
+  text-align: center;
+}
+.paragraph{
+  position: absolute;
+  bottom: 268px;
+  margin-left: 302px;
+  color: white;
+  text-align: center;
+  width: 615px;
+}
+.donate-button{
+  position: absolute;
+  bottom: 235px;
+  left: 575px;
+  background-image: linear-gradient(orange, tomato);
+  padding: 13px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+/* this is second part  */
+.second-div{
+  background-color: white;
+  height: 500px;
+}
+.donate-heading{
+  text-align: center;
+  font-size: 60px;
+}
+.second-text {
+  text-align: center;
+  width: 700px;
+  margin-left: 293px;
+}
+.new-div{
+  text-align: center;
+  margin-top: 60px;
+}
+.money{
+  background-color: rgb(217, 212, 212);
+  padding: 10px;
+}
+.ex{
+  background-color: rgb(217, 212, 212);
+  padding: 10px;
+  background-color: orangered;
+  border: 1px solid tomato;
+}
+.another-paragraph{
+  text-align: center;
+  color: gray;
+  margin-top: 64px;
+  font-size: 10px;
+}
+.rull{
+  text-align: center;
+  width: 359px;
+}
+.second-donate-button {
+  text-align: center;
+  padding: 19px;
+  margin-left: 590px;
+  background-color: tomato;
+  border: none;
+  border-radius: 10px;
+  color: white;
+}
+  
